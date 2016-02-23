@@ -1,0 +1,5 @@
+*.o
+*.dbg
+*.s
+*~
+attributes
