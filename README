@@ -1,0 +1,1 @@
+This program uses the EXTRACT CPU ATTRIBUTE instruction to query the cache attributes of a CPU.
